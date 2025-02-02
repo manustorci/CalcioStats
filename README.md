@@ -1,1 +1,1 @@
-# CalcioStats
+This Jupyter Notebook contains a data-driven analysis of the match between AS Roma and Eintracht Frankfurt. It includes multiple Python code cells that likely focus on match statistics, data visualization, and performance insights.
